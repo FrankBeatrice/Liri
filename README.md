@@ -1,6 +1,5 @@
-# week-10
-Liri_clone_app
+#Liri_clone_app
 
 Liri is a Language Interpretation and Recognition Interface.
 
-Liri will be a command line node app that takes in parameters and gives you back data
+Liri is a command line Node.js app that takes in parameters and gives you back data
